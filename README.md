@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ador1717
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently 2nd year computer science student
 - 📫 How to reach me Linkedin(ador-negash),adordawit4@gmail.com
 
 <!---
