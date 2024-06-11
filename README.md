@@ -4,7 +4,7 @@
 I'm a passionate **Software Engineer** currently pursuing a Bachelor's degree in Information Technology at Inholland University of Applied Sciences, expecting to graduate in 2026. I specialize in **Full Stack Development**
 
 ## 🚀 Technologies & Tools
-### Languages:
+### Languages & FrameWorks :
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="JAVA">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP">&nbsp;
