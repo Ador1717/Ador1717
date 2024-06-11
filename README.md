@@ -36,6 +36,3 @@ I believe in continuous learning and staying up-to-date with the latest industry
 - **Payment Gateways**: Understanding the integration of technology in payment systems for seamless financial operations.
 - **Cybersecurity in Finance**: Protecting data and financial transactions against cyber threats.
 - **Data Analytics for Finance**: Using big data to predict market trends and improve financial decisions.
-
-
--
