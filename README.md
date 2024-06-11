@@ -5,7 +5,7 @@ I'm a passionate **Software Engineer** currently pursuing a Bachelor's degree in
 
 ## 🚀 Technologies & Tools
 ### Languages:
-[PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
+!!![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
 ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
 ![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg)
 ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
