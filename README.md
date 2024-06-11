@@ -1,4 +1,4 @@
-# Hi there, I'm Ador Negash! 👋
+# Hi there, I'm Ador! 👋
 
 ## 👨‍💻 About Me
 I'm a passionate **Software Engineer** currently pursuing a Bachelor's degree in Information Technology at Inholland University of Applied Sciences, expecting to graduate in 2026. I specialize in **Full Stack Development**
